@@ -172,8 +172,6 @@ text
 2. **Fill your secrets in `.env`**
 
 GEMINI_API_KEY=your_gemini_api_key_here
-NEON_DB_URL=your_neon_postgres_url_here
-
 text
 
 > `.env` is ignored by Git. Only `.env.example` is committed.
